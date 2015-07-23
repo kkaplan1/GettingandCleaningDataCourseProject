@@ -1,6 +1,6 @@
-<head>
+<h1>
 Getting and Cleaning Data: Course Project
-</head>
+</h1><br>
 <body>
 The run_analysis.R script performs the following actions:
 <br>
@@ -10,6 +10,7 @@ The run_analysis.R script performs the following actions:
 <li>Applies activity labels to the activity data.
 <li>Applies descriptive labels to the dataset.
 <li>Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+<br>
 <br>
 The second data set will be written to the averagedata.txt file.
 </body>

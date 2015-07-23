@@ -15,17 +15,17 @@ V1                 V2<br>
 <br>
 <h2>Measurements are as follows:</h2>
 <br>
-tBodyAcc-mean()-X         
-<br>tBodyAcc-mean()-Y        
-<br>tBodyAcc-mean()-Z         
-<br>tBodyAcc-std()-X           
+tBodyAcc-mean()-X
+<br>tBodyAcc-mean()-Y
+<br>tBodyAcc-mean()-Z
+<br>tBodyAcc-std()-X
 <br>tBodyAcc-std()-Y
 <br>tBodyAcc-std()-Z
 <br>tGravityAcc-mean()-X
 <br>tGravityAcc-mean()-Y
 <br>tGravityAcc-mean()-Z
-<br>tGravityAcc-std()-X     
-<br>tGravityAcc-std()-Y        
+<br>tGravityAcc-std()-X
+<br>tGravityAcc-std()-Y
 <br>tGravityAcc-std()-Z
 <br>tBodyAccJerk-mean()-X
 <br>tBodyAccJerk-mean()-Y
@@ -50,7 +50,7 @@ tBodyAcc-mean()-X
 <br>tGravityAccMag-mean()
 <br>tGravityAccMag-std()
 <br>tBodyAccJerkMag-mean()
-<br>tBodyAccJerkMag-std()    
+<br>tBodyAccJerkMag-std()
 <br>tBodyGyroMag-mean()
 <br>tBodyGyroMag-std()
 <br>tBodyGyroJerkMag-mean()

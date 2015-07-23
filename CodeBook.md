@@ -1,8 +1,8 @@
-<head>
+<h1>
 Getting and Cleaning Data: Course Project Code Book
-</head>
-<body>
-Activity labels are as follows:
+</h1>
+<body><br>
+<h2>Activity labels are as follows:</h2>
 <br>
 activitylabels<br>
 V1                 V2<br>
@@ -13,7 +13,7 @@ V1                 V2<br>
  5           STANDING<br>
  6             LAYING<br>
 <br>
-Measurements are as follows:
+<h2>Measurements are as follows:</h2>
 <br>
 tBodyAcc-mean()-X         
 <br>tBodyAcc-mean()-Y        
@@ -81,6 +81,6 @@ tBodyAcc-mean()-X
 <br>fBodyBodyGyroMag-std()
 <br>fBodyBodyGyroJerkMag-mean()
 <br>fBodyBodyGyroJerkMag-std()
-<br>
+<br><br>
 Sujects are numbered 1 through 30.
 </body>
